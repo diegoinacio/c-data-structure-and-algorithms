@@ -10,6 +10,7 @@ int main() {
     printf("10u     : Unsigned literal has the suffix u so 10u is %u (decimal) [0-9]+u\n", 10u);
     printf("10l     : Long literal has the suffix l so 10l is %ld (decimal) [0-9]+l\n", 10l);
     printf("10ul    : Unsigned Long literal has the suffix ul so 10ul is %ld (decimal) [0-9]+ul\n", 10ul);
+    
     // Float point literals
     printf("### Floating-pint literals\n");
     printf("10.10   : Double literal so 10.10 is %.02lf [0-9]*\\.[0-9]*\n", 10.10);

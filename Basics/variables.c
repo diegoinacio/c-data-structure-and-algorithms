@@ -7,6 +7,7 @@ int main() {
     unsigned int v_uintC;
     double v_doubleA, v_doubleB;
     long double v_doubleC;
+    
     // Variable initialization
     v_char = 'V';
     v_uintA = 10;
@@ -15,6 +16,7 @@ int main() {
     v_doubleA = 0.1;
     v_doubleB = 0.2;
     v_doubleC = v_doubleA + v_doubleB;
+    
     // Output
     printf("v_char = '%c'\n", v_char);
     printf("v_uintA = %d\n", v_uintA);

@@ -14,6 +14,7 @@ int main() {
     // Show constants
     printf("Edges     -> a = %d, b = %d, c = %d\n", A,B,C);
     printf("Diagonals -> d = %d, e = %d, f = %d\n", D,E,F);
+    
     // Euler brick
     printf("### Euler brick\n");
     printf(
